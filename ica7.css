@@ -1,0 +1,112 @@
+
+.container-fluid  {
+    background-color: #8fbc8f;  
+}
+.navbar-nav .dropdown-menu  {
+background-color: #8fbc8f;
+}
+.navbar-brand{
+    font-family:Oswald;
+}
+.navbar-nav .dropdown-item:hover {
+    background-color: #8fbc8f;
+    color: #ffffff;
+}
+.navbar-nav .nav-link:hover {
+    color: #ffffff;
+}
+.navbar-nav .nav-item:first-child .nav-link:hover {
+    color: #ffffff;
+}
+.carousel {
+    max-width: 600px; 
+    margin: auto; 
+}
+.carousel img {
+    height: 395px;
+    width: 100%; 
+}
+
+.carousel-caption .carocapt{
+    color: black;
+}
+.carousel-caption {
+    background-color: rgba(255, 255, 255, 0.8); 
+    border-radius: 10px;
+    font-weight: 200;
+}
+
+.accordion-header .accordion-button {
+    background-color: #f5f5dc; 
+    color: #000; 
+    border: none; 
+}
+
+.accordion-header .accordion-button:focus {
+    box-shadow: none;
+}
+
+.accordion-header .accordion-button:not(.collapsed) {
+    background-color: #f5f5dc; 
+}
+
+.accordion-header .accordion-button:active {
+    background-color:#f5f5dc;
+}
+
+.collapse .card{
+    background-color: white;
+    font-size: x-large;
+    text-align: center;
+    border-color: #a0522d;
+    border-width: 5px;
+    border-style: dashed;
+    margin-left: 73px;
+    width: 1120px;
+    
+}
+.btn-primary{
+    background-color: #f5f5dc;
+    border-radius: 5px;
+    border-color: #8fbc8f;
+    padding: 10px;
+    margin-top: 10px;
+    margin-left: 73px;
+}
+.container{
+    margin-top: 50px;
+}
+.form-check{
+    background-color: blackS;
+}
+.col-md-4{
+    background-color:#f5f5dc;
+    font-size: large;
+    border-radius: 10px;
+    font-weight: 500;
+}
+.col-12 .btn{
+    background-color: #8fbc8f;
+    border: none;
+    color: black;
+}
+.col-12 .btn:hover{
+    background-color: #8fbc8f;
+    border: none;
+    color: whitesmoke;
+}
+.col-md-8 {
+    font-size: large;
+    border-radius: 10px;
+}
+.form-text{
+    font-style: italic;
+}
+.fa-utensils{
+    padding: 6px;
+    color: black
+}
+.fa-globe-americas{
+    padding: 6px;
+    color:black
+}
